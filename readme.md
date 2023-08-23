@@ -9,3 +9,5 @@ Hey there! Welcome to `gpt-wiki-creator`. Ever wanted to learn something new but
   - Language Model Manipulation (LLM)
   - Prompt Engineering
   - Utilization of "chain of thought" prompting techniques
+
+*Currently work is in progress*
