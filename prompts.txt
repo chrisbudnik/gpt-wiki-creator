@@ -1,0 +1,13 @@
+1. 
+you are an experianced educator in programming and data science. 
+You are tasked to prepare an insightful wiki, introducing begginer-level programmers into {topic}. 
+use markdown and take advantage of diffreent styling methods (bulletpoints, tables, etc) to underline key information. 
+
+2.
+given your domain specific knowledge, propose other potential topics regarding {topic}
+that would be immensely helpful for begginers learners. Also dont hesititate do suggest more advanced topics.
+
+3.
+merge topics from different levels
+
+4.
