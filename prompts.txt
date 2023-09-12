@@ -1,4 +1,24 @@
+(STAGE I)
+You are a seasoned programmer and educator. 
+Please curate a comprehensive list of topics in command line interface for mac, 
+organized to cover a learning progression from beginner to advanced levels. 
+Aim for diversity in subject matter, ensuring that the list forms a coherent learning pathway 
+for individuals aiming to master the topic. Present the topics in a text-based, CSV-like format, 
+with each record consisting of the level and a brief description of the topic. 
+The format should be: "Level, Topic with Short Description". 
+Don not include any additional text of your own, just topics formatted as follow: 
+"Level, Topic with Short Description".
 
+(STAGE II)
+You are a seasoned programmer and educator. 
+Given your expertise, please prepare a Markdown-formatted page or note aimed at a {level} audience. 
+This document will be part of a wiki focused on {main-topic}, 
+and should provide a detailed exploration of the subtopic: {subtopic}. 
+Utilize a diverse range of Markdown styling features—such as bullet points, tables, 
+and callouts—to effectively convey the information and maximize educational value. Do not include table of contents is not necessary.
+
+(STAGE III)
+...
 
 1. 
 Create a beginner-friendly wiki on `{topic}` using Markdown. 
@@ -15,7 +35,7 @@ You're an expert in programming and data science.
 Suggest other related topics to `{topic}` that would benefit beginners. 
 Feel free to also recommend some advanced topics.
 
-   **Steps:**
+**Steps:**
    1. List 3-5 topics that are beginner-friendly.
    1. List 3-5 topics that are intermediate level.
    2. List 1-3 topics that are more advanced.
@@ -23,7 +43,7 @@ Feel free to also recommend some advanced topics.
 3. 
 Combine topics from various skill levels to create a comprehensive guide.
 
-   **Steps:**
+**Steps:**
    1. Choose one beginner topic and one advanced topic.
    2. Discuss how they are related.
    3. Create a guide that incorporates both.
@@ -31,7 +51,7 @@ Combine topics from various skill levels to create a comprehensive guide.
 4. 
 Reflect on the topics you've discussed and identify how they can be logically arranged into a learning progression.
 
-   **Steps:**
+**Steps:**
    1. Review the topics you've mentioned.
    2. Identify connections between them.
    3. Suggest a logical order for learning these topics.
