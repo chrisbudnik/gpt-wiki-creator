@@ -1,0 +1,26 @@
+Beginner, Introduction to Conda and Miniconda
+Beginner, Creating and Activating Conda Environments
+Beginner, Installing Packages with Conda
+Beginner, Managing Packages and Dependencies with Conda
+Beginner, Updating Conda and Installed Packages
+Beginner, Configuring Conda Channels
+Beginner, Searching for Packages with Conda
+Beginner, Creating and Using Virtual Environments with Conda
+Beginner, Using Conda Environments with Jupyter Notebooks
+Beginner, Sharing Conda Environments with YAML Files
+Intermediate, Advanced Package Management with Conda
+Intermediate, Package Versioning and Conflict Resolution in Conda
+Intermediate, Configuring Conda Environments with Configuration Files
+Intermediate, Building and Distributing Conda Packages
+Intermediate, Conda Environments for Different Programming Languages
+Intermediate, Conda Packages for Data Science and Machine Learning
+Intermediate, Conda Packages for Web Development
+Intermediate, Conda Packages for Scientific Computing
+Advanced, Creating Custom Conda Channels
+Advanced, Advanced Conda Configuration Options
+Advanced, Extending Conda Functionality with Plugins
+Advanced, Troubleshooting Conda Environments and Packages
+Advanced, Managing Conda Environments in a Production Environment
+Advanced, Performance Optimization in Conda Environments
+Advanced, Conda Environments for High-Performance Computing
+Advanced, Advanced Conda Integration with IDEs and Editors
