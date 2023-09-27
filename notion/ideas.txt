@@ -1,0 +1,8 @@
+NotionBlock - for each element type (most comonly used) + support for nested structers (children inside children)
+BlockInstruction - takes str which is md formatted and translates it into list dicts that describe which blocks to like: [{"block": "code": "text": some code text"}]
+BlockFactory - takes BlockInstruction and transforms it into a PageLayout class
+PageLayout - essentially a ordered list o NotionBlocks that represent a notion page.
+
+
+Client - identifier, headers and token
+NotionConnector - inherits from Client, methods for sending requests to notion
