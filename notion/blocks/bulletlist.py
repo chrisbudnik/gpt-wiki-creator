@@ -8,7 +8,7 @@ class BulletList(NotionBlock):
         self.points = points
         self.color = color
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return [
             {
                 "object": "block",

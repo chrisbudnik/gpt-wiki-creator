@@ -3,5 +3,5 @@ class RichText:
         self.content = content
         self.link = link
 
-        def add_content(self):
+        def add_content(self) -> None:
             pass

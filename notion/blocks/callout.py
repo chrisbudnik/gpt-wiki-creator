@@ -8,7 +8,7 @@ class Callout(NotionBlock):
         self.text = text
         self.icon = icon
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return {
             "object": "block",
             "type": "callout",

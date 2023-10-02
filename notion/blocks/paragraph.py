@@ -7,7 +7,7 @@ class Paragraph(NotionBlock):
         super().__init__(type="paragraph")
         self.text = text
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return {
             "object": "block",
             "type": "paragraph",

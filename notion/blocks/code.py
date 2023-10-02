@@ -8,7 +8,7 @@ class Code(NotionBlock):
         self.text = text
         self.language = language
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return {
             "object": "block",
             "type": "code",
