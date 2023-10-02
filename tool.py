@@ -1,8 +1,7 @@
 from tqdm import tqdm
 from functions import (
     get_chat_response,
-    save_to_file,
-    read_txt_to_string
+    save_to_file
 )
 
 if __name__== "__main__":
