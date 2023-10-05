@@ -10,4 +10,7 @@ The primary mission of `gpt-wiki-creator` is to streamline the acquisition and o
   - Expertise in Prompt Engineering
   - Use of "chain of thought" prompting strategies
 
+# Notion sdk 
+Project also incorporates notion sdk for easy conent uploads and editting / fomatting.
+
 *Currently work is in progress*
