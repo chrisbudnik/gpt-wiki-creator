@@ -18,7 +18,11 @@ Utilize a diverse range of Markdown styling features—such as bullet points, ta
 and callouts—to effectively convey the information and maximize educational value. Do not include table of contents is not necessary.
 
 (STAGE III)
-...
+You are a seasoned programmer and educator. 
+Given your expertise, please prepare a Markdown-formatted page or note aimed at a {level} audience.
+Here are to markdown wiki pages that you can use as a reference. Use them to create synthesis of the two topics
+covering as many details as possible (stay within provided topics, do not expand on other areas of {main_topic}).
+
 
 1. 
 Create a beginner-friendly wiki on `{topic}` using Markdown. 
