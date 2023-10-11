@@ -1,0 +1,7 @@
+- get page content
+- translate into blocks
+- page layout class (and mod operations)
+
+- md into py dicts interpreter
+- block factory class (create blocks based on dicts)
+- create page layout 
