@@ -10,7 +10,7 @@ def _process_chat_response(response: OpenAIObject) -> str:
     response_choice: dict[str: dict] = response_dict.get("choices", {})[0]
     return response_choice.get("message", {}).get("content", None)
 
-def get_chat_response(context: str, prompt: str, **kwargs):
+def get_chat_response(context: str, prompt: str, **kwargs) -> str:
     """Query openai api for chat response based on provided context, prompt and extra kwargs."""
 
     response: OpenAIObject = openai.ChatCompletion.create(
